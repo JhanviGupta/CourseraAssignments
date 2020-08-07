@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Assignment</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet"  href="css/ass_style.css">
+	
+	
+</head>
+<body>
+	<h1>Our Menu</h1>
+	<div class="main">
+		<div class="col-l-4 col-m-6 col-s-12">
+		<div id="one">
+			<section class="a">
+				<h3>Milk:</h3>
+				<p>Milk is a white, nutrient-rich liquid food produced in the mammary glands of mammals.Throughout the world, more than six billion people consume milk and milk products. 
+				</p>
+			</section>
+		</div>
+		</div>
+		<div class="col-l-4 col-m-6 col-s-12">
+		<div id="two">
+			<section class="b">
+				<h3>Fruits:</h3>
+				<p>Fruits are an excellent source of essential vitamins and minerals, and they are high in fiber. Fruits also provide a wide range of health-boosting antioxidants, including flavonoids</p>
+			</section>
+		</div>
+		</div>
+		<div class="col-l-4 col-m-12 col-s-12">
+	<div id="three">
+		<section class="c">
+			<h3>Vegetables:</h3>
+			<p>Vegetables are low in calories and carbs and rich in fiber, vitamins, minerals and disease- fighting phytochemicals. They are also an excellent source of antioxidants which help neutralize harmful free radicals</p>
+		</section>
+	</div>
+	</div>
+	</div>
 
+</body>
+</html>
